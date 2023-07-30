@@ -1,0 +1,37 @@
+siddhant notes
+
+3 weeks sprint
+> 4 us + spark
+> UI
+> backend - ES
+
+
+DQ - 
+first week
+1. deepdive code
+2. proper unit tests
+3. integration testing - test coverage
+4. dashboard - visualisation -> 
+
+2 people user support -> debug user issues
+-> 
+
+second week
+DQ logger interface
+- API - logs - Elasticsearch
+- kibana visualisation dashboard
+- analytics dashboard using kibana
+- metrics dashboard 
+- graphana dashboard
+
+third week
+- documentation
+- deploy everything to QA - let it run in QA
+
+
+- CRUD
+- mr_feature
+- 
+
+
+

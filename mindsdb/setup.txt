@@ -1,0 +1,35 @@
+brew install miniforge
+conda init zsh
+conda activate mindsdbenv
+pip3 install mindsdb
+
+
+
+/opt/homebrew/Caskroom/miniforge/base/envs/mindsdbenv
+
+
+
+miniconda3
+/Users/vijay/opt/
+
+## Package Plan ##
+
+  environment location: /Users/vijay/opt/miniconda3/envs/mindsdbenv
+
+
+
+Proceed ([y]/n)? y
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use
+#
+#     $ conda activate mindsdbenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+https://stackoverflow.com/questions/31615322/zsh-conda-pip-installs-command-not-found

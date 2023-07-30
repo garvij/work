@@ -1,0 +1,16 @@
+Not sure which credentials to use? Check out your [login options](https://www.elastic.co/guide/en/cloud/current/ec-access-kibana.html).
+
+https://data-visualisation-with-kibana.kb.us-east4.gcp.elastic-cloud.com:9243/app/dashboards#/view/0b5e0070-8c8d-11ec-900e-0584bf866823?_g=(filters:!((query:(match_phrase:(customer.id:1)))),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))
+
+
+https://data-visualisation-with-kibana.kb.us-east4.gcp.elastic-cloud.com:9243/app/dashboards#/view/0b5e0070-8c8d-11ec-900e-0584bf866823?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2019-12-30T02:02:43.457Z',to:'2020-04-04T18:14:04.124Z'))
+
+
+
+https://data-visualisation-with-kibana.kb.us-east4.gcp.elastic-cloud.com:9243/app/dashboards#/view/0b5e0070-8c8d-11ec-900e-0584bf866823?_g=(filters:!((query:(match_phrase:(customer.age:50)))),refreshInterval:(pause:!t,value:0),time:(from:'2019-12-30T02:02:43.457Z',to:'2020-04-04T18:14:04.124Z'))
+
+
+https://data-visualisation-with-kibana.kb.us-east4.gcp.elastic-cloud.com:9243/app/dashboards#/view/0b5e0070-8c8d-11ec-900e-0584bf866823?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2020-02-09T18:30:00.000Z',to:'2020-04-02T08:55:52.789Z'))
+
+
+https://data-visualisation-with-kibana.kb.us-east4.gcp.elastic-cloud.com:9243/app/dashboards#/view/0b5e0070-8c8d-11ec-900e-0584bf866823?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2020-02-09T18:30:00.000Z',to:'2020-04-02T08:55:52.789Z'))

@@ -1,0 +1,20 @@
+change branch to mr_
+add multiple ports
+uat_nx_v3
+
+007
+> 
+> hostname
+dev
+uat
+username
+dev-uat
+
+
+- add node in conduit.ci.yml 
+
+
+
+- conduit link
+- request accept - siddhant - role level escalation
+

@@ -1,0 +1,36 @@
+todo-
+idd - integration design document
+interface design document
+
+
+
+todo-
+postcorrection
+1. idd
+2. test automation
+3. url+interface changes
+
+
+1. idd
+- confluence
+- interfaces -> 
+interface details - table
+col1: 
+method name
+uri
+source system
+target system
+rate limit
+
+
+1. dq core service
+ - interfaces
+ - interface1
+
+ rate limit - blank for now
+ err
+sequence diagram
+- sync/async
+
+
+getBreaks - 

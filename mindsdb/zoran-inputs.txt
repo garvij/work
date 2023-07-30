@@ -1,0 +1,118 @@
+pip install mindsdb --use-deprecated=legacy-resolver
+pip install -e .
+pip install -e --use-deprecated=legacy-resolver .
+pip install -e . --use-deprecated=legacy-resolver
+
+/Library/Frameworks/Python.framework/Versions/
+
+
+ 
+
+pip3 install -e . --use-deprecated=legacy-resolver
+pip3 install -e .
+
+pip3 install --upgrade pip
+
+source mindsdbenv/bin/activate
+
+
+subl ~/.zshrc
+
+subl ~/.zprofile
+
+echo $PATH
+
+https://www.wisdomgeek.com/development/installing-intel-based-packages-using-homebrew-on-the-m1-mac/s
+
+
+
+(mindsdbenv38) vijay@=Vijays-MacBook-Pro mindsdb % 
+(mindsdbenv38) vijay@Vijays-MacBook-Pro mindsdb % echo $PATH
+/opt/anaconda3/envs/mindsdbenv38/bin:/opt/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+(mindsdbenv38) vijay@Vijays-MacBook-Pro mindsdb % 
+
+
+python3 -m mindsdb
+
+
+
+(mindsdbenv38) vijay@Vijays-MacBook-Pro mindsdb % history
+ 1007  sudo cp libomp.dylib /usr/local/lib/
+ 1008  ls
+ 1009  cd /usr/local/lib/
+ 1010  ls
+ 1011  conda activate mindsdbenv38
+ 1012  ls
+ 1013  cd
+ 1014  ls
+ 1015  cd Documents
+ 1016  ls
+ 1017  cd code
+ 1018  ls
+ 1019  cd mindsdb
+ 1020  ls
+ 1021  python3 -m mindsdb
+ 1022  echo $PATH
+(mindsdbenv38) vijay@Vijays-MacBook-Pro mindsdb % 
+
+
+
+/usr/lib/python3.8/python3 -m venv mindsdbenv
+
+git clone https://github.com/mindsdb/mindsdb.git
+
+/usr/lib/python3.8/python3 -m /home/garvij/Documents/code/mindsdb/mindsdbenv
+
+
+sudo update-alternatives  --set python /usr/bin/python3.8
+
+python3.8 -m venv mindsdbenv
+
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3.8 get-pip.py
+
+sudo apt install python3.8-distutils
+
+
+
+conda config --set auto_activate_base false
+
+conda create -n mindsdbenv38 python=3.8
+
+conda create -n mindsdbenv38 python=3.8
+conda activate mindsdbenv38
+python --version
+pip3 install -e . --use-deprecated=legacy-resolver
+pip3 install -e .
+pip3 install --upgrade pip
+pip install --upgrade pip setuptools wheel
+pip3 install --upgrade pip setuptools wheel
+
+
+conda config --set auto_activate_base false
+
+TMPDIR=/home/vijay24garg/tmp
+
+
+wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.11.0-Linux-x86_64.sh
+
+use pip freeze > requirements.txt. This will list all libraries in your environment. Then you can go in to requirements.txt and remove un-needed ones.
+2) Execute command mkdir wheelhouse && pip download -r requirements.txt -d wheelhouse to download libs and their dependencies to directory wheelhouse
+3) Copy requirements.txt into wheelhouse directory
+4) Archive wheelhouse into wheelhouse.tar.gz with tar -zcf wheelhouse.tar.gz wheelhouse
+Then upload wheelhouse.tar.gz to your target machine:
+1) Execute tar -zxf wheelhouse.tar.gz to extract the files
+2) Execute pip install -r wheelhouse/requirements.txt --no-index --find-links wheelhouse to install the libs and their dependencies
+
+mkdir wheelhouse && TMPDIR=/home/vijay24garg/tmp pip download -r requirements.txt -d wheelhouse
+
+/home/vijay24garg/code/mindsdb
+
+mkdir wheelhouse && TMPDIR=/dev/tmp pip download -r /home/vijay24garg/code/mindsdb/requirements.txt -d wheelhouse
+
+sudo mkdir /dev/wheelhouse/ && sudo TMPDIR=/dev/tmp/ pip download -r /home/vijay24garg/code/mindsdb/requirements.txt -d /dev/wheelhouse
+
+
+TMPDIR=/dev/tmp pip download -r /home/vijay24garg/code/mindsdb/requirements.txt -d /dev/wheelhouse
+

@@ -1,0 +1,42 @@
+nJuJ5wSqE*jWDbj
+
+Kerberos/ gs username - 
+garvij
+
+
+pin
+588878
+
+Partial account password
+
+etbwmk
+
+SecurID single use passcodes
+
+42512709, 73621451, 57566656
+
+
+58887842512709
+
+
+Remote$etbwmk
+
+Winter$9865
+
+
+Dark_knight24
+
+
+
+daily steps
+1. login.gs.com
+2. username: garvij
+password: 588878 + 6 digit token app code
+location: Americas
+
+2. green check
+password: Dark_knight24
+
+
+hiring manager - Subhendu Sahoo
+
