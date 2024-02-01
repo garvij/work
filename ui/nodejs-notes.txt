@@ -1,0 +1,7 @@
+node -v
+
+which node
+
+/usr/local/bin/node
+
+npx create-react-app marriage-biodata-creator --template typescript
